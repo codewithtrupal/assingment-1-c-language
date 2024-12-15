@@ -1,3 +1,5 @@
+// this is table of given number
+
 #include <stdio.h>
 
 int main()
